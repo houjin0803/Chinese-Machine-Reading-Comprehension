@@ -72,10 +72,7 @@ python run_cmrc2018_drcd_baseline.py \
 
 我们使用CMRC2018官方的评估脚本来进行评估。
 
-`python cmrc2018_evaluate.py cmrc2018_dev.json predictions.json`
+`python cmrc2018_evaluate.py dev.json dev_predictions.json`
 
 ## 实验结果
-
-
-
-## 联系我们
+F1为76.286%，EM为50.980%
