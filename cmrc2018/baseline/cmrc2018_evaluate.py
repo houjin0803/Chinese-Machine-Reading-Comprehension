@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 Evaluation script for CMRC 2018
 version: v5 - special
-Note: 
+Note:
 v5 - special: Evaluate on SQuAD-style CMRC 2018 Datasets
 v5: formatted output, add usage description
 v4: fixed segmentation issues
-'''
+"""
+
+
 from __future__ import print_function
 from collections import Counter, OrderedDict
 import string
@@ -15,12 +17,10 @@ import argparse
 import json
 import sys
 import nltk
-import pdb
-
-
+nltk.download('punkt')
 # split Chinese with English
 def mixed_segmentation(in_str, rm_punc=False):
-    in_str = str(in_str).decode('utf-8').lower().strip()
+    in_str = str(in_str).lower().strip()
     segs_out = []
     temp_str = ""
     sp_char = ['-', ':', '_', '*', '^', '/', '\\', '~', '`', '+', '=',
@@ -48,7 +48,7 @@ def mixed_segmentation(in_str, rm_punc=False):
 
 # remove punctuation
 def remove_punctuation(in_str):
-    in_str = str(in_str).decode('utf-8').lower().strip()
+    in_str = str(in_str).lower().strip()
     sp_char = ['-', ':', '_', '*', '^', '/', '\\', '~', '`', '+', '=',
                '，', '。', '：', '？', '！', '“', '”', '；', '’', '《', '》', '……', '·', '、',
                '「', '」', '（', '）', '－', '～', '『', '』']
@@ -97,7 +97,7 @@ def evaluate(ground_truth_file, prediction_file):
                     skip_count += 1
                     continue
 
-                prediction = str(prediction_file[query_id]).decode('utf-8')
+                prediction = str(prediction_file[query_id])
                 f1 += calc_f1_score(answers, prediction)
                 em += calc_em_score(answers, prediction)
 
