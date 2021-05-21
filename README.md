@@ -75,4 +75,6 @@ python run_cmrc2018_drcd_baseline.py \
 `python cmrc2018_evaluate.py dev.json dev_predictions.json`
 
 ## 实验结果
-F1为76.286%，EM为50.980%
+F1为76.286%，EM为50.980%。
+## 联系我们
+如果你遇到问题，请通过github提交你的问题。
