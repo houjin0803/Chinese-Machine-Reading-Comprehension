@@ -72,9 +72,10 @@ python run_cmrc2018_drcd_baseline.py \
 
 我们使用CMRC2018官方的评估脚本来进行评估。请将模型预测生成的dev_predictions.json文件放在data文件夹中，执行以下命令：
 
-`cd data`
-
-`python cmrc2018_evaluate.py dev.json dev_predictions.json`
+`
+cd data
+python cmrc2018_evaluate.py dev.json dev_predictions.json
+`
 
 ## 实验结果
 F1为76.286%，EM为50.980%。
