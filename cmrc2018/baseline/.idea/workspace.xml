@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b771b365-30fc-4cf3-9c5b-f197e1af752a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nTNOrlRhcjBE8lCRbNgpGAvgAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/front/vue/anti-security-info-platform" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run_cmrc2018_drcd_baseline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baseline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH_TO_BERT" value="F:\postgraduate\MRC\code\cmrc2018\chinese_L-12_H-768_A-12" />
+        <env name="DATA_DIR" value="F:\postgraduate\MRC\code\cmrc2018\squad-style-data" />
+        <env name="MODEL_DIR" value="F:\postgraduate\MRC\code\cmrc2018\output" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_cmrc2018_drcd_baseline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_cmrc2018_drcd_baseline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b771b365-30fc-4cf3-9c5b-f197e1af752a" name="Default Changelist" comment="" />
+      <created>1611410091172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611410091172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="198" key="#Inspections" timestamp="1611655658746">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="593" y="198" key="#Inspections/82.0.1838.1080@82.0.1838.1080" timestamp="1611655658746" />
+    <state x="485" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611738220351">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="485" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1611738220351" />
+    <state x="1030" y="380" key="EnvironmentVariablesDialog" timestamp="1611735811312">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1030" y="380" key="EnvironmentVariablesDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1611735811312" />
+    <state x="636" y="338" key="FileChooserDialogImpl" timestamp="1620025515731">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="636" y="338" key="FileChooserDialogImpl/82.0.1838.1080@82.0.1838.1080" timestamp="1620025515731" />
+    <state width="1817" height="157" key="GridCell.Tab.0.bottom" timestamp="1611462411310">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1817" height="157" key="GridCell.Tab.0.bottom/82.0.1838.1080@82.0.1838.1080" timestamp="1611462411310" />
+    <state width="1817" height="157" key="GridCell.Tab.0.center" timestamp="1611462411309">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1817" height="157" key="GridCell.Tab.0.center/82.0.1838.1080@82.0.1838.1080" timestamp="1611462411309" />
+    <state width="1817" height="157" key="GridCell.Tab.0.left" timestamp="1611462411309">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1817" height="157" key="GridCell.Tab.0.left/82.0.1838.1080@82.0.1838.1080" timestamp="1611462411309" />
+    <state width="1817" height="157" key="GridCell.Tab.0.right" timestamp="1611462411310">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1817" height="157" key="GridCell.Tab.0.right/82.0.1838.1080@82.0.1838.1080" timestamp="1611462411310" />
+    <state x="359" y="220" key="SettingsEditor" timestamp="1611735527778">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="359" y="220" key="SettingsEditor/82.0.1838.1080@82.0.1838.1080" timestamp="1611735527778" />
+    <state x="681" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1620024463413">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="681" y="364" key="com.intellij.ide.util.TipDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1620024463413" />
+  </component>
+</project>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee9f502-ac93-408f-bcf0-57cd0b3f87a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sPom5eWls7JSbQm3BGUrYGvqn7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="cmrc2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python3.6\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cmrc2018_evaluate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmrc2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python3.6\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/cmrc2018_evaluate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cmrc2018_evaluate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Python" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Python" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee9f502-ac93-408f-bcf0-57cd0b3f87a9" name="Default Changelist" comment="" />
+      <created>1620783740832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620783740832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621597277357">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="455" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597277357" />
+    <state x="735" y="301" key="EnvironmentVariablesDialog" timestamp="1621597273630">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="735" y="301" key="EnvironmentVariablesDialog/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597273630" />
+    <state width="1251" height="295" key="GridCell.Tab.0.bottom" timestamp="1621597299654">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1251" height="295" key="GridCell.Tab.0.bottom/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597299654" />
+    <state width="1251" height="295" key="GridCell.Tab.0.center" timestamp="1621597299654">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1251" height="295" key="GridCell.Tab.0.center/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597299654" />
+    <state width="1251" height="295" key="GridCell.Tab.0.left" timestamp="1621597299654">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1251" height="295" key="GridCell.Tab.0.left/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597299654" />
+    <state width="1251" height="295" key="GridCell.Tab.0.right" timestamp="1621597299654">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="1251" height="295" key="GridCell.Tab.0.right/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621597299654" />
+    <state x="2588" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1621576872550">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2588" y="364" key="com.intellij.ide.util.TipDialog/82.0.1838.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1621576872550" />
+    <state x="681" y="364" key="com.intellij.ide.util.TipDialog/82.0.1838.1080/1982.0.1858.1080@82.0.1838.1080" timestamp="1621562821803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baseline/run_cmrc2018_drcd_baseline.py</url>
+          <line>304</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
