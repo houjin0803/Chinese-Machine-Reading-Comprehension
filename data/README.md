@@ -6,7 +6,7 @@
 
 ### 数据结构
 
-![反恐安全数据集结构](F:\postgraduate\MRC\code\Chinese-Machine-Comprehension\cmrc2018\data\反恐安全数据集结构.png)
+![反恐安全数据集结构](https://github.com/houjin0803/test/blob/gh-pages/data/%E5%8F%8D%E6%81%90%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E9%9B%86%E7%BB%93%E6%9E%84.png)
 
 ### 字段含义
 
